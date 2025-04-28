@@ -1,0 +1,13 @@
+# зависимости
+node_modules/
+
+# сборка
+dist/
+
+# временные файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# среда
+.env
