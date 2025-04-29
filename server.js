@@ -109,5 +109,5 @@ app
   .use(router.allowedMethods());
 
 // === Запуск сервера ===
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server on ${PORT}`));
